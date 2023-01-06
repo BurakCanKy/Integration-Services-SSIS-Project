@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "veriproje", "veriproje\veriproje.dtproj", "{C0ACB4FD-D9D1-4F98-BAD6-A026351B85F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0ACB4FD-D9D1-4F98-BAD6-A026351B85F0}.Development|Default.ActiveCfg = Development
+		{C0ACB4FD-D9D1-4F98-BAD6-A026351B85F0}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5190486-6B1B-483C-B69D-80BC83304E67}
+	EndGlobalSection
+EndGlobal
